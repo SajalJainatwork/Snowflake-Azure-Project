@@ -58,5 +58,5 @@ Installation steps here..
 https://github.com/SajalJainatwork/Snowflake-Azure-Project/tree/main/Installation%20and%20Execution
 
 Source code here..
-https://github.com/Ajay026/Snowflake-Azure-Project/tree/main/Code
+https://github.com/SajalJainatwork/Snowflake-Azure-Project/tree/main/Code
 
