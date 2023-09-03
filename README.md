@@ -18,15 +18,23 @@ We will use the Twitter API and fetch tweets and their metadata(re-tweets, comme
 ➡️Services: Azure Storage Account, Azure Queue, Snowpipe, Snowflake, Azure Resource Group  
 
 𝗦𝗻𝗼𝘄𝗳𝗹𝗮𝗸𝗲:  
-Snowflake is a data storage, processing, and analytics platform that blends a unique SQL query engine with a cloud-native architecture. Snowflake delivers all the features of an enterprise analytic database to the user. Snowflake components include:  
-✳Warehouse/Virtual Warehouse  
-✳Database and Schema  
-✳Table  
-✳View  
-✳Stored procedure  
-✳Snowpipe  
-✳Stream  
-✳Task  
+Snowflake is a data storage, processing, and analytics platform that blends a unique SQL query engine with a cloud-native architecture. Snowflake delivers all the features of an enterprise analytic database to the user. Snowflake components include:
+  
+✅Warehouse/Virtual Warehouse  
+
+✅Database and Schema  
+
+✅Table  
+
+✅View  
+
+✅Stored procedure 
+ 
+✅Snowpipe  
+
+✅Stream  
+
+✅Task  
 
 𝗔𝘇𝘂𝗿𝗲 𝗤𝘂𝗲𝘂𝗲:  
 Azure Queue Storage allows application components to communicate in the cloud. Application components are frequently separated when developing for scale so that they may scale independently. Queue Storage enables asynchronous communications between application components operating in the cloud, on the desktop, on an on-premises server, or a mobile device. Queue Storage also allows you to manage asynchronous activities and create process workflows.  
